@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "792876218930",
+    "project_id": "e-book-store-b3c17",
+    "storage_bucket": "e-book-store-b3c17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792876218930:android:7679c743606ce092aa5a2b",
+        "android_client_info": {
+          "package_name": "com.abhaykevat.ebook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN62UfTSPvCvWd-hAGBuep4XSSFvtOt4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
